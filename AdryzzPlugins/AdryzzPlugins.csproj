@@ -8,4 +8,10 @@
     <PackageReference Include="OpenTabletDriver.Plugin" Version="0.5.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="1.0.0.0.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
