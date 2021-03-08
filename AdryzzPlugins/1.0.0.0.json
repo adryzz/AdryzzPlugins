@@ -1,7 +1,7 @@
 ﻿{
   "Name": "AdryzzPlugins",
   "Owner": "Adryzz",
-  "Description": "Windows 10 Touch Output Mode",
+  "Description": "Collection of Adryzz's weird plugins",
   "PluginVersion": "1.0.0.0",
   "SupportedDriverVersion": "1.0.0.0",
   "RepositoryUrl": "https://github.com/adryzz/AdryzzPlugins",
